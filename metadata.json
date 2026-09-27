@@ -1,0 +1,6 @@
+{
+  "name": "VoiceFlow - System-Wide Voice Typing Assistant",
+  "description": "System-wide floating bubble voice typing assistant for Android powered by Groq Whisper API. Interactive simulated Android environment, real microphone STT injection, Play Store compliant onboarding, and full Kotlin/Compose architecture codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
